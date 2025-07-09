@@ -1,0 +1,3 @@
+[submodule "overcooked_ai"]
+	path = overcooked_ai
+	url = git@github.com:TechRufy/overcooked_ai.git
